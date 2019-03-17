@@ -7,7 +7,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 2
 
 # Showcase personal skills or business features.
 # 
@@ -16,21 +16,25 @@ weight = 30
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  icon = "users"
+  icon_pack = "fas"
+  name = "Behavioral Insights"
+  description = "Expertise in human behavior and psychology"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Analytics"
+  description = "State-of-the-art statistics and machine-learning"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "mobile-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "App Design"
+  description = "Modern desktop and mobile application development"
+  
+
+  
+
 
 +++
